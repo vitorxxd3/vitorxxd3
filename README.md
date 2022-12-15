@@ -13,3 +13,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vitorxxd3&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+![Snake animation](https://github.com/nati3054/nati3054/blob/output/github-contribution-grid-snake.svg)
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=002AFD&height=120&section=footer"/>
+
+
